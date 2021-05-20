@@ -1,0 +1,4 @@
+# RegresionLinealyMultiple-ML-py01
+Regresion Lineal y Multiple en python
+
+ESTA ES/SON LA/LAS MANERA/S CORRECTA/S DE IMPLEMENTAR UNA REGRESION LINEAL Y MULTIPLE EN PYTHON, CON  EJEMPLOS. 
